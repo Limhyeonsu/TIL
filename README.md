@@ -9,3 +9,7 @@
 * JPA 프로그래밍 입문
   * [1회독](https://github.com/Limhyeonsu/Limhyeonsu.github.io/tree/main/_posts/book/JPA%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%9E%85%EB%AC%B8)
   * [2회독](https://github.com/Limhyeonsu/TIL/tree/main/BOOK/JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%9E%85%EB%AC%B8)
+
+
+## 알고리즘
+* [인프런-java 알고리즘 문제풀이 입문](https://github.com/Limhyeonsu/TIL/tree/main/algorithm/inflearn_java_%ED%92%80%EC%9D%B4)
