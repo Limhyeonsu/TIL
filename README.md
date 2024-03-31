@@ -9,6 +9,7 @@
 * JPA 프로그래밍 입문
   * [1회독](https://github.com/Limhyeonsu/Limhyeonsu.github.io/tree/main/_posts/book/JPA%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%9E%85%EB%AC%B8)
   * [2회독](https://github.com/Limhyeonsu/TIL/tree/main/BOOK/JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%9E%85%EB%AC%B8)
+* [토비의 스프링 1](https://github.com/Limhyeonsu/TIL/tree/main/BOOK/%ED%86%A0%EB%B9%84%EC%9D%98%20%EC%8A%A4%ED%94%84%EB%A7%811)
 
 
 ## 알고리즘
