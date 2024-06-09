@@ -14,3 +14,7 @@
 
 ## 알고리즘
 * [인프런-java 알고리즘 문제풀이 입문](https://github.com/Limhyeonsu/TIL/tree/main/algorithm/inflearn_java_%ED%92%80%EC%9D%B4)
+
+
+## 자격증
+* [리눅스마스터 2급](https://github.com/Limhyeonsu/TIL/tree/main/certificate/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B02%EA%B8%89)
